@@ -3,17 +3,4 @@ Created Wed 01 Jul 2020 03:43:48 PM AKDT
 Copyright (C) 2020 by Raymond E. Marcil <marcilr@gmail.com>
 
 
-Atomics history
-
-
-July 16th 1945 mountain outside Los Alamos, the worlds
-first atomic bomb exploded.  J. Robert Oppenheime said
-"quoted a copy of the 'bag ba gita' (spelling) declaring
-
-'Now I am become Death, the destroyer of worlds'. 
---The story of Oppenheimer's infamous quote
-  The line, from the Hindu sacred text the Bhagavad-Gita, 
-  has come to define Robert Oppenheimer, but its meaning 
-  is more complex than many realise...
-  Some great information here.
-  https://www.wired.co.uk/article/manhattan-project-robert-oppenheimer
+Atomics
